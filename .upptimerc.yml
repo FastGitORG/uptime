@@ -14,19 +14,25 @@ sites:
     url: https://download.fastgit.org
   - name: FastGit Hub
     url: https://hub.fastgit.org
+  - name: FastGit Raw
+    url: https://raw.fastgit.org
   - name: FastGit Status
     url: https://status.fastgit.org
+  - name: GitHub
+    url: https://github.com
+
 assignees: # Users to assign downtime issues (optional)
   - KevinZonda
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FastGit Uptime
   introTitle: "**FastGit**, fast way to get GitHub things."
-  introMessage: See, we always reach for our SLA requirement (0%+)!
+  introMessage: See, we always reach our SLA requirement (0%+)!
   navbar:
     - title: Home
       href: https://fastgit.org
