@@ -1,42 +1,50 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "FastGit Home",
+    "url": "https://fastgit.org",
+    "slug": "fast-git-home",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 705
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "FastGit Archive",
+    "url": "https://archive.fastgit.org",
+    "slug": "fast-git-archive",
     "status": "up",
     "uptime": "100.00",
-    "time": 133
+    "time": 380
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "FastGit Document",
+    "url": "https://doc.fastgit.org",
+    "slug": "fast-git-document",
     "status": "up",
     "uptime": "100.00",
-    "time": 341
+    "time": 697
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "FastGit Download",
+    "url": "https://download.fastgit.org",
+    "slug": "fast-git-download",
     "status": "down",
-    "uptime": "99.28",
+    "uptime": "4.15",
     "time": 0
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "FastGit Hub",
+    "url": "https://hub.fastgit.org",
+    "slug": "fast-git-hub",
     "status": "up",
     "uptime": "100.00",
-    "time": 49
+    "time": 178
+  },
+  {
+    "name": "FastGit Status",
+    "url": "https://status.fastgit.org",
+    "slug": "fast-git-status",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 816
   }
 ]
