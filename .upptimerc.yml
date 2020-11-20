@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FastGit Uptime
   introTitle: "**FastGit**, fast way to get GitHub things."
-  introMessage: See, we reaches for our SLA requirement (0%+)!
+  introMessage: See, we always reach for our SLA requirement (0%+)!
   navbar:
     - title: Home
       href: https://fastgit.org
