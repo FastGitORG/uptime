@@ -28,7 +28,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime
+  baseUrl: /repo
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FastGit Uptime
   introTitle: "**FastGit**, fast way to get GitHub things."
