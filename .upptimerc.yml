@@ -16,7 +16,8 @@ sites:
     url: https://hub.fastgit.org
   - name: FastGit Status
     url: https://status.fastgit.org
-
+assignees: # Users to assign downtime issues (optional)
+  - KevinZonda
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
