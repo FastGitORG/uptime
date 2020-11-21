@@ -5,7 +5,7 @@
     "slug": "fast-git-home",
     "status": "up",
     "uptime": "100.00",
-    "time": 689
+    "time": 676
   },
   {
     "name": "FastGit Archive",
@@ -13,7 +13,7 @@
     "slug": "fast-git-archive",
     "status": "up",
     "uptime": "100.00",
-    "time": 470
+    "time": 480
   },
   {
     "name": "FastGit Document",
@@ -21,14 +21,14 @@
     "slug": "fast-git-document",
     "status": "up",
     "uptime": "100.00",
-    "time": 691
+    "time": 674
   },
   {
     "name": "FastGit Download",
     "url": "https://download.fastgit.org",
     "slug": "fast-git-download",
     "status": "down",
-    "uptime": "0.02",
+    "uptime": "0.00",
     "time": 0
   },
   {
@@ -37,7 +37,7 @@
     "slug": "fast-git-hub",
     "status": "up",
     "uptime": "100.00",
-    "time": 230
+    "time": 223
   },
   {
     "name": "FastGit Raw",
@@ -45,7 +45,7 @@
     "slug": "fast-git-raw",
     "status": "up",
     "uptime": "100.00",
-    "time": 234
+    "time": 222
   },
   {
     "name": "FastGit Status",
@@ -53,7 +53,7 @@
     "slug": "fast-git-status",
     "status": "up",
     "uptime": "100.00",
-    "time": 692
+    "time": 683
   },
   {
     "name": "GitHub",
@@ -61,6 +61,6 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "100.00",
-    "time": 35
+    "time": 33
   }
 ]
