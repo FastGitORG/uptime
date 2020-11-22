@@ -28,7 +28,7 @@
     "url": "https://download.fastgit.org",
     "slug": "fast-git-download",
     "status": "up",
-    "uptime": "-0.00%",
+    "uptime": "0.00%",
     "time": 140
   },
   {
@@ -51,9 +51,9 @@
     "name": "FastGit Status",
     "url": "https://status.fastgit.org",
     "slug": "fast-git-status",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 621
+    "status": "up",
+    "uptime": "99.54%",
+    "time": 693
   },
   {
     "name": "GitHub",
