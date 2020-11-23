@@ -51,9 +51,9 @@
     "name": "FastGit Status",
     "url": "https://status.fastgit.org",
     "slug": "fast-git-status",
-    "status": "down",
-    "uptime": "99.74%",
-    "time": 635
+    "status": "up",
+    "uptime": "99.66%",
+    "time": 640
   },
   {
     "name": "GitHub",
