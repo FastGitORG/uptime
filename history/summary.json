@@ -11,9 +11,9 @@
     "name": "FastGit Archive",
     "url": "https://archive.fastgit.org",
     "slug": "fast-git-archive",
-    "status": "up",
-    "uptime": "99.65%",
-    "time": 1091
+    "status": "down",
+    "uptime": "99.67%",
+    "time": 1041
   },
   {
     "name": "FastGit Document",
@@ -52,7 +52,7 @@
     "url": "https://status.fastgit.org",
     "slug": "fast-git-status",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "time": 647
   },
   {
