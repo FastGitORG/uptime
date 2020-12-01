@@ -3,9 +3,9 @@
     "name": "FastGit Home",
     "url": "https://fastgit.org",
     "slug": "fast-git-home",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 655
+    "status": "up",
+    "uptime": "99.94%",
+    "time": 743
   },
   {
     "name": "FastGit Archive",
@@ -52,7 +52,7 @@
     "url": "https://status.fastgit.org",
     "slug": "fast-git-status",
     "status": "down",
-    "uptime": "92.26%",
+    "uptime": "92.20%",
     "time": 577
   },
   {
