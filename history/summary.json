@@ -3,16 +3,16 @@
     "name": "FastGit Home",
     "url": "https://fastgit.org",
     "slug": "fast-git-home",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 689
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 655
   },
   {
     "name": "FastGit Archive",
     "url": "https://archive.fastgit.org",
     "slug": "fast-git-archive",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "time": 896
   },
   {
@@ -52,7 +52,7 @@
     "url": "https://status.fastgit.org",
     "slug": "fast-git-status",
     "status": "down",
-    "uptime": "93.83%",
+    "uptime": "92.26%",
     "time": 577
   },
   {
