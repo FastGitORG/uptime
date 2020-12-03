@@ -5,15 +5,31 @@
     "slug": "fast-git-home",
     "status": "up",
     "uptime": "99.94%",
-    "time": 743
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 776,
+    "timeDay": 713,
+    "timeWeek": 952,
+    "timeMonth": 776,
+    "timeYear": 776
   },
   {
     "name": "FastGit Archive",
     "url": "https://archive.fastgit.org",
     "slug": "fast-git-archive",
     "status": "up",
-    "uptime": "99.44%",
-    "time": 880
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 1031,
+    "timeDay": 705,
+    "timeWeek": 1235,
+    "timeMonth": 1031,
+    "timeYear": 1031
   },
   {
     "name": "FastGit Document",
@@ -21,15 +37,31 @@
     "slug": "fast-git-document",
     "status": "up",
     "uptime": "99.98%",
-    "time": 658
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 692,
+    "timeDay": 744,
+    "timeWeek": 732,
+    "timeMonth": 692,
+    "timeYear": 692
   },
   {
     "name": "FastGit Download",
     "url": "https://download.fastgit.org",
     "slug": "fast-git-download",
     "status": "up",
-    "uptime": "99.99%",
-    "time": 436
+    "uptime": "8.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "14.87%",
+    "uptimeMonth": "8.56%",
+    "uptimeYear": "8.56%",
+    "time": 719,
+    "timeDay": 749,
+    "timeWeek": 719,
+    "timeMonth": 719,
+    "timeYear": 719
   },
   {
     "name": "FastGit Hub",
@@ -37,7 +69,15 @@
     "slug": "fast-git-hub",
     "status": "up",
     "uptime": "100.00%",
-    "time": 293
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 288,
+    "timeDay": 180,
+    "timeWeek": 291,
+    "timeMonth": 288,
+    "timeYear": 288
   },
   {
     "name": "FastGit Raw",
@@ -45,15 +85,31 @@
     "slug": "fast-git-raw",
     "status": "up",
     "uptime": "100.00%",
-    "time": 231
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 229,
+    "timeDay": 195,
+    "timeWeek": 217,
+    "timeMonth": 229,
+    "timeYear": 229
   },
   {
     "name": "FastGit Status",
     "url": "https://status.fastgit.org",
     "slug": "fast-git-status",
     "status": "up",
-    "uptime": "87.24%",
-    "time": 573
+    "uptime": "87.68%",
+    "uptimeDay": "48.27%",
+    "uptimeWeek": "78.75%",
+    "uptimeMonth": "87.68%",
+    "uptimeYear": "87.68%",
+    "time": 717,
+    "timeDay": 801,
+    "timeWeek": 705,
+    "timeMonth": 717,
+    "timeYear": 717
   },
   {
     "name": "GitHub",
@@ -61,6 +117,14 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "100.00%",
-    "time": 42
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 41,
+    "timeDay": 30,
+    "timeWeek": 39,
+    "timeMonth": 41,
+    "timeYear": 41
   }
 ]
