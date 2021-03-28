@@ -1,7 +1,7 @@
 url: https://status.fastgit.org
-status: up
-code: 200
-responseTime: 1120
-lastUpdated: 2021-03-27T23:05:48.801Z
+status: down
+code: 502
+responseTime: 29510
+lastUpdated: 2021-03-28T21:23:26.293Z
 startTime: Fri Nov 20 2020 21:09:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
