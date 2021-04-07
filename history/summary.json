@@ -166,7 +166,7 @@
     "url": "https://status.fastgit.org",
     "icon": "https://favicons.githubusercontent.com/status.fastgit.org",
     "slug": "fast-git-status",
-    "status": "up",
+    "status": "down",
     "uptime": "87.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
