@@ -16,8 +16,6 @@ sites:
     url: https://hub.fastgit.org
   - name: FastGit Raw
     url: https://raw.fastgit.org
-  - name: FastGit Status
-    url: https://status.fastgit.org
   - name: GitHub
     url: https://github.com
 
