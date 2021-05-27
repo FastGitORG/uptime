@@ -4,7 +4,7 @@
     "url": "https://fastgit.org",
     "icon": "https://favicons.githubusercontent.com/fastgit.org",
     "slug": "fast-git-home",
-    "status": "up",
+    "status": "down",
     "uptime": "98.33%",
     "uptimeDay": "92.77%",
     "uptimeWeek": "98.67%",
@@ -16,6 +16,7 @@
     "timeMonth": 1041,
     "timeYear": 717,
     "dailyMinutesDown": {
+      "2021-05-27": 0,
       "2021-05-26": 104,
       "2021-05-21": 30,
       "2021-05-16": 69,
