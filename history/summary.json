@@ -77,18 +77,19 @@
     "url": "https://doc.fastgit.org",
     "icon": "https://favicons.githubusercontent.com/doc.fastgit.org",
     "slug": "fast-git-document",
-    "status": "up",
+    "status": "down",
     "uptime": "95.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.97%",
-    "time": 340,
-    "timeDay": 225,
-    "timeWeek": 198,
+    "time": 339,
+    "timeDay": 222,
+    "timeWeek": 200,
     "timeMonth": 215,
-    "timeYear": 340,
+    "timeYear": 339,
     "dailyMinutesDown": {
+      "2021-06-08": 0,
       "2021-01-08": 869,
       "2021-01-07": 34,
       "2021-01-05": 62,
@@ -169,9 +170,9 @@
     "slug": "fast-git-raw",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 166,
@@ -179,7 +180,7 @@
     "timeMonth": 219,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 10
     }
   },
   {
