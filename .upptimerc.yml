@@ -28,8 +28,8 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
   logoUrl: https://cdn.jsdelivr.net/gh/FastGitORG/logo@ad87e38c7101537010b3dc6f7d4d52bd1f915002/v2.1.png
-  name: FastGit Uptime
-  introTitle: "**FastGit**, fast way to get GitHub things."
+  name: FastGit UK Uptime
+  introTitle: "**FastGit UK**, fast way to get GitHub things."
   introMessage: See, we always reach our SLA requirement (0%+)!
   navbar:
     - title: Home
