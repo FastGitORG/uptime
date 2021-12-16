@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 605,
-    "timeDay": 329,
-    "timeWeek": 442,
-    "timeMonth": 510,
-    "timeYear": 603,
+    "timeDay": 520,
+    "timeWeek": 451,
+    "timeMonth": 512,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2021-10-31": 29,
       "2021-10-29": 26,
@@ -35,8 +35,7 @@
       "2021-04-29": 12,
       "2021-04-28": 22,
       "2021-01-06": 725,
-      "2020-12-17": 83,
-      "2020-12-16": 61
+      "2020-12-17": 83
     }
   },
   {
@@ -50,11 +49,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.67%",
-    "time": 679,
-    "timeDay": 913,
-    "timeWeek": 819,
-    "timeMonth": 902,
-    "timeYear": 665,
+    "time": 680,
+    "timeDay": 964,
+    "timeWeek": 827,
+    "timeMonth": 905,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2021-12-12": 23,
       "2021-12-07": 17,
@@ -69,8 +68,7 @@
       "2021-01-15": 13,
       "2021-01-14": 9,
       "2021-01-06": 724,
-      "2020-12-17": 81,
-      "2020-12-16": 61
+      "2020-12-17": 81
     }
   },
   {
@@ -85,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 281,
-    "timeDay": 287,
-    "timeWeek": 222,
+    "timeDay": 124,
+    "timeWeek": 206,
     "timeMonth": 234,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2021-06-08": 30,
       "2021-01-08": 869,
@@ -97,8 +95,7 @@
       "2021-01-03": 36,
       "2021-01-01": 9,
       "2020-12-29": 6,
-      "2020-12-20": 6,
-      "2020-12-16": 35
+      "2020-12-20": 6
     }
   },
   {
@@ -107,18 +104,19 @@
     "icon": "https://favicons.githubusercontent.com/download.fastgit.org",
     "slug": "fast-git-download",
     "status": "down",
-    "uptime": "86.08%",
+    "uptime": "85.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.32%",
-    "time": 441,
-    "timeDay": 396,
-    "timeWeek": 182,
+    "uptimeYear": "88.04%",
+    "time": 440,
+    "timeDay": 168,
+    "timeWeek": 186,
     "timeMonth": 206,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2021-12-15": 67,
+      "2021-12-16": 67,
+      "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
@@ -164,8 +162,7 @@
       "2021-11-02": 711,
       "2021-10-25": 21,
       "2021-07-02": 16,
-      "2020-12-17": 77,
-      "2020-12-16": 30
+      "2020-12-17": 77
     }
   },
   {
@@ -174,18 +171,19 @@
     "icon": "https://favicons.githubusercontent.com/hub.fastgit.org",
     "slug": "fast-git-hub",
     "status": "down",
-    "uptime": "89.07%",
+    "uptime": "88.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.34%",
+    "uptimeYear": "88.07%",
     "time": 309,
-    "timeDay": 150,
-    "timeWeek": 174,
+    "timeDay": 141,
+    "timeWeek": 169,
     "timeMonth": 207,
-    "timeYear": 310,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2021-12-15": 67,
+      "2021-12-16": 67,
+      "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
@@ -238,18 +236,19 @@
     "icon": "https://favicons.githubusercontent.com/raw.fastgit.org",
     "slug": "fast-git-raw",
     "status": "down",
-    "uptime": "89.06%",
+    "uptime": "88.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.34%",
+    "uptimeYear": "88.06%",
     "time": 305,
-    "timeDay": 138,
-    "timeWeek": 197,
+    "timeDay": 136,
+    "timeWeek": 171,
     "timeMonth": 187,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2021-12-15": 67,
+      "2021-12-16": 67,
+      "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
@@ -309,7 +308,7 @@
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 55,
-    "timeWeek": 122,
+    "timeWeek": 123,
     "timeMonth": 100,
     "timeYear": 64,
     "dailyMinutesDown": {}
