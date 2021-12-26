@@ -113,7 +113,7 @@
     "timeMonth": 201,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2021-12-26": 1365,
+      "2021-12-26": 1369,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -189,7 +189,7 @@
     "timeMonth": 201,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2021-12-26": 1365,
+      "2021-12-26": 1369,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -264,7 +264,7 @@
     "timeMonth": 182,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2021-12-26": 1365,
+      "2021-12-26": 1369,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -327,19 +327,19 @@
     "url": "https://github.com",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 147,
-    "timeWeek": 116,
-    "timeMonth": 96,
+    "timeDay": 125,
+    "timeWeek": 110,
+    "timeMonth": 95,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2021-12-26": 1
+      "2021-12-26": 5
     }
   }
 ]
