@@ -102,7 +102,7 @@
     "icon": "https://favicons.githubusercontent.com/download.fastgit.org",
     "slug": "fast-git-download",
     "status": "down",
-    "uptime": "83.54%",
+    "uptime": "83.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -113,7 +113,7 @@
     "timeMonth": 201,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2021-12-26": 1299,
+      "2021-12-26": 1314,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -189,7 +189,7 @@
     "timeMonth": 201,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2021-12-26": 1299,
+      "2021-12-26": 1314,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -264,7 +264,7 @@
     "timeMonth": 182,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2021-12-26": 1299,
+      "2021-12-26": 1314,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -327,11 +327,11 @@
     "url": "https://github.com",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 178,
@@ -339,7 +339,7 @@
     "timeMonth": 96,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2021-12-26": 6
+      "2021-12-26": 0
     }
   }
 ]
