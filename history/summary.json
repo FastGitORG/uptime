@@ -4,9 +4,9 @@
     "url": "https://fastgit.org",
     "icon": "https://favicons.githubusercontent.com/fastgit.org",
     "slug": "fast-git-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "63.23%",
+    "uptimeDay": "63.22%",
     "uptimeWeek": "94.25%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.54%",
@@ -126,7 +126,7 @@
     "timeMonth": 179,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2022-05-08": 931,
+      "2022-05-08": 944,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
@@ -335,7 +335,7 @@
     "timeMonth": 163,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2022-05-08": 931,
+      "2022-05-08": 944,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
@@ -543,7 +543,7 @@
     "timeMonth": 198,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2022-05-08": 931,
+      "2022-05-08": 944,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
