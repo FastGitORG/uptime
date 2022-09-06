@@ -1,7 +1,7 @@
 url: https://raw.fastgit.org
-status: up
-code: 200
-responseTime: 5070
-lastUpdated: 2022-09-05T23:25:12.431Z
+status: down
+code: 502
+responseTime: 800
+lastUpdated: 2022-09-06T21:56:12.747Z
 startTime: Fri Nov 20 2020 21:21:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
